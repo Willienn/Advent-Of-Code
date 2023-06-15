@@ -1,0 +1,17 @@
+{
+  "name": "adven-code",
+  "version": "1.0.0",
+  "type": "module",
+  "target": "es6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.2.0"
+  }
+}
